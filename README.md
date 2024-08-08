@@ -1,7 +1,7 @@
 # Sorunlar
 
 ### Araştarma
-- Canlı şekilde admin sayfası güncellemesi.
+- Mobil uygulamalarda Canlı şekilde admin sayfası güncellemesi.
 
 ### Konuşulacaklar 
 - Sipariş Tarihleri Randevulu Sistem olabilir.
